@@ -48,8 +48,6 @@ open_to:
   - AI & LLM research
 ```
 
-;)
-
 <br />
 
 ---
