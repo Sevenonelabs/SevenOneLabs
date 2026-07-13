@@ -1,4 +1,5 @@
 
+## Building scalable web platforms, and automation tools.
 
 ## <img src="https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_White.svg" /> About Me
 
@@ -7,8 +8,8 @@ name: Shivam Annapure
 alias: Sevenonelabs
 Email: shivam.a202308@gmail.com
 Github: https://github.com/Sevenonelabs/
-location: Maharashtra, India
-role: Founder, Designer, Software Enginner
+location:India
+role: Founder, Designer
 bio: >
   Developer passionate about building practical, reliable, and
   scalable applications. I bridge the gap between engineering
@@ -19,6 +20,7 @@ open_to:
   - Full Stack Development
   - AI/ML Collaboration
   - Open Source Contributions
+
 ```
 
 <br />
@@ -30,24 +32,20 @@ open_to:
 
 ```yaml
 learning:
-  - Advanced Command Line Interface
+  - AI & LLM 
+  - Command Line Interface
   - AI agents
   - System Design & Architecture
+  - Cloud Infrastructure & DevOps
 
 building:
-  - SquarePic ecosystem expansion
-  - Open-source tools for developers
-  - HMS for small clinics  
-
-exploring:
-  - AI-powered developer tools
-  - Privacy-first SaaS architecture
-  - Cloud-native application design
+  - SquarePic.io, ayureasy.vercel.app
+  - Open-source tools for designers,developers
 
 open_to:
   - Freelance full-stack development
   - Open source collaborations
-  - AI research
+  - AI & LLM research
 ```
 
 ;)
