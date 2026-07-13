@@ -1,17 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Shivam%20Annapure&fontSize=70&fontColor=fff&animation=twinkling&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descSize=18&descAlignY=65" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+practical%2C+reliable+%26+scalable+apps;Full+Stack+%7C+TypeScript+%7C+React+%7C+Node.js;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Science-8B5CF6?style=flat-square&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/B.Sc Animation 2017-2020-8B5CF6?style=flat-square&labelColor=1e1b4b" />
   <img src="https://img.shields.io/badge/India-1e1b4b?style=flat-square&logo=googlemaps&logoColor=white&labelColor=6D28D9" />
   <a href="https://www.squarepic.io"><img src="https://img.shields.io/badge/Portfolio-www.squarepic.io-A855F7?style=flat-square&logo=vercel&logoColor=white&labelColor=1e1b4b" /></a>
   <a href="https://www.linkedin.com/in/shivam-annapure"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1b4b" /></a>
-  <a href="mailto:shivam@squarepic.io"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b4b" /></a>
+  <a href="mailto:shivam.a202308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1b4b" /></a>
   <a href="https://github.com/Sevenonelabs"><img src="https://img.shields.io/badge/GitHub-Sevenonelabs-A855F7?style=flat-square&logo=github&logoColor=white&labelColor=1e1b4b" /></a>
 </p>
 
