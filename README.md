@@ -10,10 +10,11 @@ Email: shivam.a202308@gmail.com
 Github: https://github.com/Sevenonelabs/
 location:India
 role: Founder, Designer
+
 bio: >
   Developer passionate about building practical, reliable, and
-  scalable applications. I bridge the gap between engineering
-  excellence, design and product-minded development, crafting solutions
+  scalable applications. I bridge the gap between engineering,
+  design and product-minded development, crafting solutions
   that are both robust and user-centric.
 
 open_to:
