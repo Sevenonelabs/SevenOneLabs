@@ -30,13 +30,14 @@ open_to:
 
 ```yaml
 learning:
-  - Advanced TypeScript Patterns
-  - Machine Learning & Deep Learning
+  - Advanced Command Line Interface
+  - AI agents
   - System Design & Architecture
 
 building:
   - SquarePic ecosystem expansion
   - Open-source tools for developers
+  - HMS for small clinics  
 
 exploring:
   - AI-powered developer tools
@@ -44,11 +45,12 @@ exploring:
   - Cloud-native application design
 
 open_to:
-  - Full-time Software Engineering roles
   - Freelance full-stack development
   - Open source collaborations
-  - AI/ML research partnerships
+  - AI research
 ```
+
+;)
 
 <br />
 
