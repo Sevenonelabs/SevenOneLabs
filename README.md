@@ -1,13 +1,13 @@
 
 
-## <img src="[https://img.icons8.com/fluency/24/000000/user.png](https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_Black.svg)" /> About Me
+## <img src="https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_Black.svg" /> About Me
 
 ```yaml
 name: Shivam Annapure
 alias: Sevenonelabs
-Email: Shivam.a202308@gmail.com
+Email: shivam.a202308@gmail.com
 Github: https://github.com/Sevenonelabs/
-location: India
+location: Maharashtra, India
 role: Founder, Designer, Software Enginner
 bio: >
   Developer passionate about building practical, reliable, and
@@ -26,7 +26,7 @@ open_to:
 
 <br />
 
-## <img src="https://img.icons8.com/fluency/24/000000/target.png" /> Current Focus
+## <img src="https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_Black.svg" /> Current Focus
 
 ```yaml
 learning:
