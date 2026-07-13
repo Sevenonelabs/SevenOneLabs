@@ -1,5 +1,5 @@
 
-## Building scalable web platforms, and automation tools.
+## Hi, I'm Shivam!
 
 ## <img src="https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_White.svg" /> About Me
 
