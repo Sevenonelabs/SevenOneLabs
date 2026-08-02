@@ -8,8 +8,8 @@ name: Shivam Annapure
 alias: Sevenonelabs
 Email: shivam.a202308@gmail.com
 Github: https://github.com/Sevenonelabs/
-location:India
-role: Founder, Designer
+Location: India
+role: Developer
 
 bio: >
   Developer passionate about building practical, reliable, and
@@ -23,10 +23,7 @@ open_to:
   - Open Source Contributions
 
 ```
-
 <br />
-
-
 <br />
 
 ## <img src="https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_White.svg" /> Current Focus
@@ -34,13 +31,11 @@ open_to:
 ```yaml
 learning:
   - AI & LLM 
-  - Command Line Interface
-  - AI agents
   - System Design & Architecture
   - Cloud Infrastructure & DevOps
 
 building:
-  - SquarePic.io, ayureasy.vercel.app
+  - SquarePic.io, 
   - Open-source tools for designers,developers
 
 open_to:
