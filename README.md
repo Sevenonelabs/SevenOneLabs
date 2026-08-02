@@ -24,7 +24,7 @@ open_to:
 
 ```
 <br />
-#<img src="https://raw.githubusercontent.com/Sevenonelabs/SevenOneLabs/bc71d06178a7b31dc20d448a2e798d22069101d7/GitHub_Invertocat_White.svg" /> Current Focus
+<img src="https://raw.githubusercontent.com/Sevenonelabs/SevenOneLabs/bc71d06178a7b31dc20d448a2e798d22069101d7/GitHub_Invertocat_White.svg" /> Current Focus
 
 ```yaml
 learning:
