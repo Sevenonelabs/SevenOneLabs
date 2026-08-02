@@ -24,8 +24,6 @@ open_to:
 
 ```
 <br />
-<br />
-
 ## <img src="https://github.com/Sevenonelabs/SevenOneLabs/blob/main/GitHub_Invertocat_White.svg" /> Current Focus
 
 ```yaml
