@@ -1,7 +1,7 @@
 
 ## Hi, I'm Shivam!
 
-## <img src="https://avatars.githubusercontent.com/u/274262930?v=4" /> About Me
+## <img src="https://raw.githubusercontent.com/Sevenonelabs/SevenOneLabs/bc71d06178a7b31dc20d448a2e798d22069101d7/GitHub_Invertocat_Black.svg" /> About Me
 
 ```yaml
 name: Shivam Annapure
@@ -24,7 +24,7 @@ open_to:
 
 ```
 <br />
-## <img src="https://avatars.githubusercontent.com/u/274262930?v=4" /> Current Focus
+## <img src="https://raw.githubusercontent.com/Sevenonelabs/SevenOneLabs/bc71d06178a7b31dc20d448a2e798d22069101d7/GitHub_Invertocat_Black.svg" /> Current Focus
 
 ```yaml
 learning:
